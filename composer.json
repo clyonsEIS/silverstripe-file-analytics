@@ -1,0 +1,21 @@
+{
+  "name": "clyonsEIS/silverstripe-file-analytics",
+  "description": "Fire google analytics events on direct file requests",
+  "type": "silverstripe-module",
+  "homepage": "http://github.com/clyonsEIS/silverstripe-file-analytics",
+  "keywords": ["silverstripe", "file-analytics", "google-analytics", "track", "pdf"],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {"name": "Craig Lyons","email": "clyons@execproinc.com"}
+  ],
+  "support": {
+    "issues": "http://github.com/clyonsEIS/silverstripe-file-analytics/issues"
+  },
+  "require": {
+    "silverstripe/cms": "~3.1",
+    "silverstripe/framework": "~3.1"
+  },
+  "extra": {
+    "installer-name": "silverstripe-file-analytics"
+  }
+}

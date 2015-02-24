@@ -1,0 +1,7 @@
+---
+Name: fileanalyticsroutes
+After: framework/routes#coreroutes
+---
+Director:
+  rules:
+    'file-analytics/$seg': 'FileAnalytics_Controller'
