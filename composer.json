@@ -1,5 +1,5 @@
 {
-  "name": "clyonsEIS/silverstripe-file-analytics",
+  "name": "clyons-eis/silverstripe-file-analytics",
   "description": "Fire google analytics events on direct file requests",
   "type": "silverstripe-module",
   "homepage": "http://github.com/clyonsEIS/silverstripe-file-analytics",
